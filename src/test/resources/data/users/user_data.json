@@ -1,0 +1,19 @@
+{
+  "name": "TestName",
+  "email": "DzevChitestemail@example.com",
+  "password": "TestPassword",
+  "title": "Mr",
+  "birth_date": "01",
+  "birth_month": "January",
+  "birth_year": "1990",
+  "firstname": "TestFirstName",
+  "lastname": "TestLastName",
+  "company": "TestCompany",
+  "address1": "TestAddress1",
+  "address2": "TestAddress2",
+  "country": "Canada",
+  "zipcode": "12345",
+  "state": "TestState",
+  "city": "TestCity",
+  "mobile_number": "1234567890"
+}

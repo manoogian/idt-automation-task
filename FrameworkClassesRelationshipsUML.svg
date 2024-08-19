@@ -1,0 +1,408 @@
+<svg xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css" height="991px" preserveAspectRatio="none"
+     style="width:988px;height:991px;background:#FFFFFF;" version="1.1" viewBox="0 0 988 991" width="988px"
+     zoomAndPan="magnify">
+    <defs/>
+    <g><!--class BasePage-->
+        <g id="elem_BasePage">
+            <rect codeLine="3" fill="#F1F1F1" height="96.8906" id="BasePage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="126.167" x="483.09" y="148.59"/>
+            <ellipse cx="509.5896" cy="164.59" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M512.5584,170.2306 Q511.9802,170.5275 511.3396,170.6681 Q510.699,170.8244 509.9959,170.8244 Q507.4959,170.8244 506.1677,169.1838 Q504.8552,167.5275 504.8552,164.4025 Q504.8552,161.2775 506.1677,159.6213 Q507.4959,157.965 509.9959,157.965 Q510.699,157.965 511.3396,158.1213 Q511.9959,158.2775 512.5584,158.5744 L512.5584,161.2931 Q511.9334,160.715 511.3396,160.4494 Q510.7459,160.1681 510.1209,160.1681 Q508.7771,160.1681 508.0896,161.2463 Q507.4021,162.3088 507.4021,164.4025 Q507.4021,166.4963 508.0896,167.5744 Q508.7771,168.6369 510.1209,168.6369 Q510.7459,168.6369 511.3396,168.3713 Q511.9334,168.09 512.5584,167.5119 L512.5584,170.2306 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68.6123"
+                  x="526.1451" y="169.4367">BasePage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="484.09" x2="608.257" y1="180.59" y2="180.59"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="484.09" x2="608.257" y1="188.59" y2="188.59"/>
+            <ellipse cx="494.09" cy="202.2384" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98.3213"
+                  x="503.09" y="205.5851">initElements()
+            </text>
+            <ellipse cx="494.09" cy="218.5353" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100.167"
+                  x="503.09" y="221.882">clickElement()
+            </text>
+            <ellipse cx="494.09" cy="234.8322" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79.208"
+                  x="503.09" y="238.1789">enterText()
+            </text>
+        </g><!--class HomePage-->
+        <g id="elem_HomePage">
+            <rect codeLine="9" fill="#F1F1F1" height="80.5938" id="HomePage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="187.7725" x="342.28" y="306.48"/>
+            <ellipse cx="393.9836" cy="322.48" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M396.9524,328.1206 Q396.3742,328.4175 395.7336,328.5581 Q395.093,328.7144 394.3899,328.7144 Q391.8899,328.7144 390.5617,327.0738 Q389.2492,325.4175 389.2492,322.2925 Q389.2492,319.1675 390.5617,317.5113 Q391.8899,315.855 394.3899,315.855 Q395.093,315.855 395.7336,316.0113 Q396.3899,316.1675 396.9524,316.4644 L396.9524,319.1831 Q396.3274,318.605 395.7336,318.3394 Q395.1399,318.0581 394.5149,318.0581 Q393.1711,318.0581 392.4836,319.1363 Q391.7961,320.1988 391.7961,322.2925 Q391.7961,324.3863 392.4836,325.4644 Q393.1711,326.5269 394.5149,326.5269 Q395.1399,326.5269 395.7336,326.2613 Q396.3274,325.98 396.9524,325.4019 L396.9524,328.1206 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75.8652"
+                  x="414.4836" y="327.3267">HomePage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="343.28" x2="529.0525" y1="338.48" y2="338.48"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="343.28" x2="529.0525" y1="346.48" y2="346.48"/>
+            <ellipse cx="353.28" cy="360.1284" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126.5469"
+                  x="362.28" y="363.4751">verifyHomePage()
+            </text>
+            <ellipse cx="353.28" cy="376.4253" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161.7725"
+                  x="362.28" y="379.772">navigateToLoginPage()
+            </text>
+        </g><!--class LoginPage-->
+        <g id="elem_LoginPage">
+            <rect codeLine="15" fill="#F1F1F1" height="64.2969" id="LoginPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="104.5361" x="310.9" y="472.23"/>
+            <ellipse cx="325.9" cy="488.23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M328.8688,493.8706 Q328.2906,494.1675 327.65,494.3081 Q327.0094,494.4644 326.3063,494.4644 Q323.8063,494.4644 322.4781,492.8238 Q321.1656,491.1675 321.1656,488.0425 Q321.1656,484.9175 322.4781,483.2613 Q323.8063,481.605 326.3063,481.605 Q327.0094,481.605 327.65,481.7613 Q328.3063,481.9175 328.8688,482.2144 L328.8688,484.9331 Q328.2438,484.355 327.65,484.0894 Q327.0563,483.8081 326.4313,483.8081 Q325.0875,483.8081 324.4,484.8863 Q323.7125,485.9488 323.7125,488.0425 Q323.7125,490.1363 324.4,491.2144 Q325.0875,492.2769 326.4313,492.2769 Q327.0563,492.2769 327.65,492.0113 Q328.2438,491.73 328.8688,491.1519 L328.8688,493.8706 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72.5361"
+                  x="339.9" y="493.0767">LoginPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="311.9" x2="414.4361" y1="504.23" y2="504.23"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="311.9" x2="414.4361" y1="512.23" y2="512.23"/>
+            <ellipse cx="321.9" cy="525.8784" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76.9385"
+                  x="330.9" y="529.2251">loginUser()
+            </text>
+        </g><!--class SignUpPage-->
+        <g id="elem_SignUpPage">
+            <rect codeLine="21" fill="#F1F1F1" height="64.2969" id="SignUpPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="172.4736" x="172.93" y="629.82"/>
+            <ellipse cx="213.257" cy="645.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M216.2258,651.4606 Q215.6476,651.7575 215.007,651.8981 Q214.3664,652.0544 213.6633,652.0544 Q211.1633,652.0544 209.8351,650.4138 Q208.5226,648.7575 208.5226,645.6325 Q208.5226,642.5075 209.8351,640.8513 Q211.1633,639.195 213.6633,639.195 Q214.3664,639.195 215.007,639.3513 Q215.6633,639.5075 216.2258,639.8044 L216.2258,642.5231 Q215.6008,641.945 215.007,641.6794 Q214.4133,641.3981 213.7883,641.3981 Q212.4445,641.3981 211.757,642.4763 Q211.0695,643.5388 211.0695,645.6325 Q211.0695,647.7263 211.757,648.8044 Q212.4445,649.8669 213.7883,649.8669 Q214.4133,649.8669 215.007,649.6013 Q215.6008,649.32 216.2258,648.7419 L216.2258,651.4606 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84.1914"
+                  x="232.8852" y="650.6667">SignUpPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="173.93" x2="344.4036" y1="661.82" y2="661.82"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="173.93" x2="344.4036" y1="669.82" y2="669.82"/>
+            <ellipse cx="183.93" cy="683.4684" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146.4736"
+                  x="192.93" y="686.8151">enterSignUpDetails()
+            </text>
+        </g><!--class ProductsPage-->
+        <g id="elem_ProductsPage">
+            <rect codeLine="27" fill="#F1F1F1" height="80.5938" id="ProductsPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="132.2305" x="849.05" y="306.48"/>
+            <ellipse cx="866.1673" cy="322.48" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M869.136,328.1206 Q868.5579,328.4175 867.9173,328.5581 Q867.2767,328.7144 866.5735,328.7144 Q864.0735,328.7144 862.7454,327.0738 Q861.4329,325.4175 861.4329,322.2925 Q861.4329,319.1675 862.7454,317.5113 Q864.0735,315.855 866.5735,315.855 Q867.2767,315.855 867.9173,316.0113 Q868.5735,316.1675 869.136,316.4644 L869.136,319.1831 Q868.511,318.605 867.9173,318.3394 Q867.3235,318.0581 866.6985,318.0581 Q865.3548,318.0581 864.6673,319.1363 Q863.9798,320.1988 863.9798,322.2925 Q863.9798,324.3863 864.6673,325.4644 Q865.3548,326.5269 866.6985,326.5269 Q867.3235,326.5269 867.9173,326.2613 Q868.511,325.98 869.136,325.4019 L869.136,328.1206 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95.5254"
+                  x="880.6378" y="327.3267">ProductsPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="850.05" x2="980.2805" y1="338.48" y2="338.48"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="850.05" x2="980.2805" y1="346.48" y2="346.48"/>
+            <ellipse cx="860.05" cy="360.1284" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106.2305"
+                  x="869.05" y="363.4751">selectProduct()
+            </text>
+            <ellipse cx="860.05" cy="376.4253" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83.9932"
+                  x="869.05" y="379.772">addToCart()
+            </text>
+        </g><!--class CartPage-->
+        <g id="elem_CartPage">
+            <rect codeLine="33" fill="#F1F1F1" height="80.5938" id="CartPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="177.0537" x="778.64" y="464.08"/>
+            <ellipse cx="830.8563" cy="480.08" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M833.8251,485.7206 Q833.2469,486.0175 832.6063,486.1581 Q831.9657,486.3144 831.2626,486.3144 Q828.7626,486.3144 827.4344,484.6738 Q826.1219,483.0175 826.1219,479.8925 Q826.1219,476.7675 827.4344,475.1113 Q828.7626,473.455 831.2626,473.455 Q831.9657,473.455 832.6063,473.6113 Q833.2626,473.7675 833.8251,474.0644 L833.8251,476.7831 Q833.2001,476.205 832.6063,475.9394 Q832.0126,475.6581 831.3876,475.6581 Q830.0438,475.6581 829.3563,476.7363 Q828.6688,477.7988 828.6688,479.8925 Q828.6688,481.9863 829.3563,483.0644 Q830.0438,484.1269 831.3876,484.1269 Q832.0126,484.1269 832.6063,483.8613 Q833.2001,483.58 833.8251,483.0019 L833.8251,485.7206 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64.1211"
+                  x="851.3563" y="484.9267">CartPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="779.64" x2="954.6937" y1="496.08" y2="496.08"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="779.64" x2="954.6937" y1="504.08" y2="504.08"/>
+            <ellipse cx="789.64" cy="517.7284" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80.2813"
+                  x="798.64" y="521.0751">verifyCart()
+            </text>
+            <ellipse cx="789.64" cy="534.0253" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151.0537"
+                  x="798.64" y="537.372">proceedToCheckout()
+            </text>
+        </g><!--class CheckoutPage-->
+        <g id="elem_CheckoutPage">
+            <rect codeLine="40" fill="#F1F1F1" height="64.2969" id="CheckoutPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="188.7979" x="706.77" y="629.82"/>
+            <ellipse cx="747.097" cy="645.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M750.0658,651.4606 Q749.4876,651.7575 748.847,651.8981 Q748.2064,652.0544 747.5033,652.0544 Q745.0033,652.0544 743.6751,650.4138 Q742.3626,648.7575 742.3626,645.6325 Q742.3626,642.5075 743.6751,640.8513 Q745.0033,639.195 747.5033,639.195 Q748.2064,639.195 748.847,639.3513 Q749.5033,639.5075 750.0658,639.8044 L750.0658,642.5231 Q749.4408,641.945 748.847,641.6794 Q748.2533,641.3981 747.6283,641.3981 Q746.2845,641.3981 745.597,642.4763 Q744.9095,643.5388 744.9095,645.6325 Q744.9095,647.7263 745.597,648.8044 Q746.2845,649.8669 747.6283,649.8669 Q748.2533,649.8669 748.847,649.6013 Q749.4408,649.32 750.0658,648.7419 L750.0658,651.4606 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100.5156"
+                  x="766.7252" y="650.6667">CheckoutPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="707.77" x2="894.5679" y1="661.82" y2="661.82"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="707.77" x2="894.5679" y1="669.82" y2="669.82"/>
+            <ellipse cx="717.77" cy="683.4684" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162.7979"
+                  x="726.77" y="686.8151">enterCheckoutDetails()
+            </text>
+        </g><!--class PaymentPage-->
+        <g id="elem_PaymentPage">
+            <rect codeLine="46" fill="#F1F1F1" height="64.2969" id="PaymentPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="137.7813" x="636.28" y="779.27"/>
+            <ellipse cx="655.4829" cy="795.27" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M658.4517,800.9106 Q657.8736,801.2075 657.2329,801.3481 Q656.5923,801.5044 655.8892,801.5044 Q653.3892,801.5044 652.0611,799.8638 Q650.7486,798.2075 650.7486,795.0825 Q650.7486,791.9575 652.0611,790.3013 Q653.3892,788.645 655.8892,788.645 Q656.5923,788.645 657.2329,788.8013 Q657.8892,788.9575 658.4517,789.2544 L658.4517,791.9731 Q657.8267,791.395 657.2329,791.1294 Q656.6392,790.8481 656.0142,790.8481 Q654.6704,790.8481 653.9829,791.9263 Q653.2954,792.9888 653.2954,795.0825 Q653.2954,797.1763 653.9829,798.2544 Q654.6704,799.3169 656.0142,799.3169 Q656.6392,799.3169 657.2329,799.0513 Q657.8267,798.77 658.4517,798.1919 L658.4517,800.9106 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96.4414"
+                  x="670.4169" y="800.1167">PaymentPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="637.28" x2="773.0613" y1="811.27" y2="811.27"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="637.28" x2="773.0613" y1="819.27" y2="819.27"/>
+            <ellipse cx="647.28" cy="832.9184" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111.7813"
+                  x="656.28" y="836.2651">makePayment()
+            </text>
+        </g><!--class OrderPlacedPage-->
+        <g id="elem_OrderPlacedPage">
+            <rect codeLine="52" fill="#F1F1F1" height="64.2969" id="OrderPlacedPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="162.8213" x="546.76" y="920.56"/>
+            <ellipse cx="566.3321" cy="936.56" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M569.3008,942.2006 Q568.7227,942.4975 568.0821,942.6381 Q567.4414,942.7944 566.7383,942.7944 Q564.2383,942.7944 562.9102,941.1538 Q561.5977,939.4975 561.5977,936.3725 Q561.5977,933.2475 562.9102,931.5913 Q564.2383,929.935 566.7383,929.935 Q567.4414,929.935 568.0821,930.0913 Q568.7383,930.2475 569.3008,930.5444 L569.3008,933.2631 Q568.6758,932.685 568.0821,932.4194 Q567.4883,932.1381 566.8633,932.1381 Q565.5196,932.1381 564.8321,933.2163 Q564.1446,934.2788 564.1446,936.3725 Q564.1446,938.4663 564.8321,939.5444 Q565.5196,940.6069 566.8633,940.6069 Q567.4883,940.6069 568.0821,940.3413 Q568.6758,940.06 569.3008,939.4819 L569.3008,942.2006 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120.6611"
+                  x="581.3481" y="941.4067">OrderPlacedPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="547.76" x2="708.5813" y1="952.56" y2="952.56"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="547.76" x2="708.5813" y1="960.56" y2="960.56"/>
+            <ellipse cx="557.76" cy="974.2084" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136.8213"
+                  x="566.76" y="977.5551">verifyOrderPlaced()
+            </text>
+        </g><!--class AccountCreatedPage-->
+        <g id="elem_AccountCreatedPage">
+            <rect codeLine="58" fill="#F1F1F1" height="64.2969" id="AccountCreatedPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="189.167" x="102.59" y="779.27"/>
+            <ellipse cx="122.1621" cy="795.27" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M125.1308,800.9106 Q124.5527,801.2075 123.9121,801.3481 Q123.2714,801.5044 122.5683,801.5044 Q120.0683,801.5044 118.7402,799.8638 Q117.4277,798.2075 117.4277,795.0825 Q117.4277,791.9575 118.7402,790.3013 Q120.0683,788.645 122.5683,788.645 Q123.2714,788.645 123.9121,788.8013 Q124.5683,788.9575 125.1308,789.2544 L125.1308,791.9731 Q124.5058,791.395 123.9121,791.1294 Q123.3183,790.8481 122.6933,790.8481 Q121.3496,790.8481 120.6621,791.9263 Q119.9746,792.9888 119.9746,795.0825 Q119.9746,797.1763 120.6621,798.2544 Q121.3496,799.3169 122.6933,799.3169 Q123.3183,799.3169 123.9121,799.0513 Q124.5058,798.77 125.1308,798.1919 L125.1308,800.9106 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147.0068"
+                  x="137.1781" y="800.1167">AccountCreatedPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="103.59" x2="290.757" y1="811.27" y2="811.27"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="103.59" x2="290.757" y1="819.27" y2="819.27"/>
+            <ellipse cx="113.59" cy="832.9184" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163.167"
+                  x="122.59" y="836.2651">verifyAccountCreated()
+            </text>
+        </g><!--class AccountDeletedPage-->
+        <g id="elem_AccountDeletedPage">
+            <rect codeLine="64" fill="#F1F1F1" height="64.2969" id="AccountDeletedPage" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="188.3398" x="7" y="920.56"/>
+            <ellipse cx="26.5721" cy="936.56" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M29.5408,942.2006 Q28.9627,942.4975 28.3221,942.6381 Q27.6814,942.7944 26.9783,942.7944 Q24.4783,942.7944 23.1502,941.1538 Q21.8377,939.4975 21.8377,936.3725 Q21.8377,933.2475 23.1502,931.5913 Q24.4783,929.935 26.9783,929.935 Q27.6814,929.935 28.3221,930.0913 Q28.9783,930.2475 29.5408,930.5444 L29.5408,933.2631 Q28.9158,932.685 28.3221,932.4194 Q27.7283,932.1381 27.1033,932.1381 Q25.7596,932.1381 25.0721,933.2163 Q24.3846,934.2788 24.3846,936.3725 Q24.3846,938.4663 25.0721,939.5444 Q25.7596,940.6069 27.1033,940.6069 Q27.7283,940.6069 28.3221,940.3413 Q28.9158,940.06 29.5408,939.4819 L29.5408,942.2006 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146.1797"
+                  x="41.5881" y="941.4067">AccountDeletedPage
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="194.3398" y1="952.56" y2="952.56"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="194.3398" y1="960.56" y2="960.56"/>
+            <ellipse cx="18" cy="974.2084" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162.3398"
+                  x="27" y="977.5551">verifyAccountDeleted()
+            </text>
+        </g><!--class Preconditions-->
+        <g id="elem_Preconditions">
+            <rect codeLine="70" fill="#F1F1F1" height="80.5938" id="Preconditions" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="126.835" x="482.75" y="7"/>
+            <ellipse cx="497.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M500.7188,28.6406 Q500.1406,28.9375 499.5,29.0781 Q498.8594,29.2344 498.1563,29.2344 Q495.6563,29.2344 494.3281,27.5938 Q493.0156,25.9375 493.0156,22.8125 Q493.0156,19.6875 494.3281,18.0313 Q495.6563,16.375 498.1563,16.375 Q498.8594,16.375 499.5,16.5313 Q500.1563,16.6875 500.7188,16.9844 L500.7188,19.7031 Q500.0938,19.125 499.5,18.8594 Q498.9063,18.5781 498.2813,18.5781 Q496.9375,18.5781 496.25,19.6563 Q495.5625,20.7188 495.5625,22.8125 Q495.5625,24.9063 496.25,25.9844 Q496.9375,27.0469 498.2813,27.0469 Q498.9063,27.0469 499.5,26.7813 Q500.0938,26.5 500.7188,25.9219 L500.7188,28.6406 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94.835"
+                  x="511.75" y="27.8467">Preconditions
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="483.75" x2="608.585" y1="39" y2="39"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="483.75" x2="608.585" y1="47" y2="47"/>
+            <ellipse cx="493.75" cy="60.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50.0801"
+                  x="502.75" y="63.9951">setup()
+            </text>
+            <ellipse cx="493.75" cy="76.9453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79.0303"
+                  x="502.75" y="80.292">tearDown()
+            </text>
+        </g><!--class UserLoginDetails-->
+        <g id="elem_UserLoginDetails">
+            <rect codeLine="76" fill="#F1F1F1" height="80.5938" id="UserLoginDetails" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="150.46" x="379.94" y="621.67"/>
+            <ellipse cx="394.94" cy="637.67" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M397.9088,643.3106 Q397.3306,643.6075 396.69,643.7481 Q396.0494,643.9044 395.3463,643.9044 Q392.8463,643.9044 391.5181,642.2638 Q390.2056,640.6075 390.2056,637.4825 Q390.2056,634.3575 391.5181,632.7013 Q392.8463,631.045 395.3463,631.045 Q396.0494,631.045 396.69,631.2013 Q397.3463,631.3575 397.9088,631.6544 L397.9088,634.3731 Q397.2838,633.795 396.69,633.5294 Q396.0963,633.2481 395.4713,633.2481 Q394.1275,633.2481 393.44,634.3263 Q392.7525,635.3888 392.7525,637.4825 Q392.7525,639.5763 393.44,640.6544 Q394.1275,641.7169 395.4713,641.7169 Q396.0963,641.7169 396.69,641.4513 Q397.2838,641.17 397.9088,640.5919 L397.9088,643.3106 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118.46"
+                  x="408.94" y="642.5167">UserLoginDetails
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="380.94" x2="529.4" y1="653.67" y2="653.67"/>
+            <ellipse cx="390.94" cy="667.3184" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.2393"
+                  x="399.94" y="670.6651">username
+            </text>
+            <ellipse cx="390.94" cy="683.6153" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66.7119"
+                  x="399.94" y="686.962">password
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="380.94" x2="529.4" y1="694.2638" y2="694.2638"/>
+        </g><!--reverse link BasePage to HomePage-->
+        <g id="link_BasePage_HomePage">
+            <path codeLine="13" d="M500.0108,260.038 C485.4408,279.608 479.51,287.57 465.62,306.23 " fill="none"
+                  id="BasePage-backto-HomePage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="510.76,245.6,495.1982,256.4549,504.8235,263.621,510.76,245.6"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--reverse link BasePage to LoginPage-->
+        <g id="link_BasePage_LoginPage">
+            <path codeLine="18"
+                  d="M465.2012,214.637 C412.8712,228.267 359.36,251.62 325.17,306.48 C293.04,358.04 322.37,430.79 344.3,471.89 "
+                  fill="none" id="BasePage-backto-LoginPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="482.62,210.1,463.6888,208.8307,466.7135,220.4432,482.62,210.1"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link HomePage to LoginPage-->
+        <g id="link_HomePage_LoginPage">
+            <path codeLine="19" d="M417.56,387.45 C405.27,413.65 391.9287,442.0782 380.4987,466.4382 " fill="none"
+                  id="HomePage-to-LoginPage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="377.95,471.87,385.3942,465.4214,380.0739,467.3435,378.1518,462.0232,377.95,471.87"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="403.17" y="430.1469">uses
+            </text>
+        </g><!--reverse link BasePage to SignUpPage-->
+        <g id="link_BasePage_SignUpPage">
+            <path codeLine="24"
+                  d="M465.059,208.8771 C405.949,219.7871 339.34,242.95 303.17,306.48 C242.89,412.39 249.22,564.57 255.43,629.59 "
+                  fill="none" id="BasePage-backto-SignUpPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="482.76,205.61,463.9699,202.9768,466.148,214.7774,482.76,205.61"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link LoginPage to SignUpPage-->
+        <g id="link_LoginPage_SignUpPage">
+            <path codeLine="25" d="M342.12,536.86 C324.08,563.86 301.555,597.5623 283.515,624.5423 " fill="none"
+                  id="LoginPage-to-SignUpPage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="280.18,629.53,288.5077,624.2717,282.9592,625.3735,281.8574,619.825,280.18,629.53"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="316.17" y="587.7369">uses
+            </text>
+        </g><!--reverse link BasePage to ProductsPage-->
+        <g id="link_BasePage_ProductsPage">
+            <path codeLine="31"
+                  d="M627.3773,212.3459 C684.9573,223.7459 753.4,241.38 822.17,275.48 C838.67,283.67 855.19,294.92 869.63,306.02 "
+                  fill="none" id="BasePage-backto-ProductsPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="609.72,208.85,626.212,218.2316,628.5426,206.4601,609.72,208.85"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--reverse link BasePage to CartPage-->
+        <g id="link_BasePage_CartPage">
+            <path codeLine="37"
+                  d="M626.8881,213.5508 C670.9981,224.1908 711.36,239.82 751.17,275.48 C808.54,326.88 841.43,413.29 856.67,463.64 "
+                  fill="none" id="BasePage-backto-CartPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="609.39,209.33,625.4812,219.3835,628.2951,207.7181,609.39,209.33"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link ProductsPage to CartPage-->
+        <g id="link_ProductsPage_CartPage">
+            <path codeLine="38" d="M902.93,387.45 C895.71,410.86 888.3697,434.6569 881.1497,458.0469 " fill="none"
+                  id="ProductsPage-to-CartPage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="879.38,463.78,885.8566,456.3602,880.8547,459.0024,878.2125,454.0006,879.38,463.78"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="893.17" y="430.1469">uses
+            </text>
+        </g><!--reverse link BasePage to CheckoutPage-->
+        <g id="link_BasePage_CheckoutPage">
+            <path codeLine="43"
+                  d="M625.7676,230.4439 C650.8676,242.9239 661.91,252.41 680.17,275.48 C757.71,373.45 722.84,425.76 761.17,544.67 C770.47,573.53 781.76,606.16 789.97,629.49 "
+                  fill="none" id="BasePage-backto-CheckoutPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="609.65,222.43,623.0963,235.8164,628.4389,225.0713,609.65,222.43"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link CartPage to CheckoutPage-->
+        <g id="link_CartPage_CheckoutPage">
+            <path codeLine="44" d="M850.34,545.04 C839.23,571.24 827.2152,599.5873 816.8752,623.9373 " fill="none"
+                  id="CartPage-to-CheckoutPage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="814.53,629.46,821.7295,622.7394,816.4843,624.8578,814.3659,619.6125,814.53,629.46"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="837.17" y="587.7369">uses
+            </text>
+        </g><!--reverse link BasePage to PaymentPage-->
+        <g id="link_BasePage_PaymentPage">
+            <path codeLine="49"
+                  d="M617.1048,258.8372 C642.5448,285.1772 654.17,307.34 654.17,345.78 C654.17,345.78 654.17,345.78 654.17,662.97 C654.17,704.82 672.75,749.86 687.48,778.99 "
+                  fill="none" id="BasePage-backto-PaymentPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="604.6,245.89,612.7891,263.0055,621.4205,254.6689,604.6,245.89"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link CheckoutPage to PaymentPage-->
+        <g id="link_CheckoutPage_PaymentPage">
+            <path codeLine="50" d="M780.58,694.6 C764.38,719.48 745.1934,748.9416 729.0034,773.8116 " fill="none"
+                  id="CheckoutPage-to-PaymentPage" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="725.73,778.84,733.9924,773.4797,728.4578,774.6497,727.2879,769.1151,725.73,778.84"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="757.17" y="745.3369">uses
+            </text>
+        </g><!--reverse link BasePage to OrderPlacedPage-->
+        <g id="link_BasePage_OrderPlacedPage">
+            <path codeLine="55"
+                  d="M570.0341,262.9719 C579.3541,291.5319 583.17,311.67 583.17,345.78 C583.17,345.78 583.17,345.78 583.17,812.41 C583.17,850.92 598.93,892.63 611.8,920.28 "
+                  fill="none" id="BasePage-backto-OrderPlacedPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="564.45,245.86,564.3302,264.8333,575.7381,261.1105,564.45,245.86"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link PaymentPage to OrderPlacedPage-->
+        <g id="link_PaymentPage_OrderPlacedPage">
+            <path codeLine="56" d="M687.7,844.02 C675.1,866.82 661.0633,892.2092 648.4733,914.9792 " fill="none"
+                  id="PaymentPage-to-OrderPlacedPage"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="645.57,920.23,653.4255,914.2893,647.9894,915.8543,646.4244,910.4183,645.57,920.23"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="673.17" y="886.6269">uses
+            </text>
+        </g><!--reverse link BasePage to AccountCreatedPage-->
+        <g id="link_BasePage_AccountCreatedPage">
+            <path codeLine="61"
+                  d="M465.0474,209.2083 C346.3774,226.9283 120.17,269.95 120.17,345.78 C120.17,345.78 120.17,345.78 120.17,662.97 C120.17,706.86 147.32,750.61 169.37,778.92 "
+                  fill="none" id="BasePage-backto-AccountCreatedPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="482.85,206.55,464.1613,203.2741,465.9335,215.1425,482.85,206.55"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link SignUpPage to AccountCreatedPage-->
+        <g id="link_SignUpPage_AccountCreatedPage">
+            <path codeLine="62" d="M245.87,694.6 C235.41,719.48 223.2243,748.4385 212.7743,773.3085 " fill="none"
+                  id="SignUpPage-to-AccountCreatedPage"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="210.45,778.84,217.6241,772.0922,212.3869,774.2304,210.2487,768.9932,210.45,778.84"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="231.17" y="745.3369">uses
+            </text>
+        </g><!--reverse link BasePage to AccountDeletedPage-->
+        <g id="link_BasePage_AccountDeletedPage">
+            <path codeLine="67"
+                  d="M464.8072,205.25 C330.8172,218.49 49.17,256.33 49.17,345.78 C49.17,345.78 49.17,345.78 49.17,812.41 C49.17,851.39 67.26,892.85 82.1,920.31 "
+                  fill="none" id="BasePage-backto-AccountDeletedPage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="482.72,203.48,464.2172,199.2791,465.3972,211.2209,482.72,203.48"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link AccountCreatedPage to AccountDeletedPage-->
+        <g id="link_AccountCreatedPage_AccountDeletedPage">
+            <path codeLine="68" d="M175.39,844.02 C159.68,866.82 141.9644,892.5194 126.2744,915.2894 " fill="none"
+                  id="AccountCreatedPage-to-AccountDeletedPage"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818"
+                     points="122.87,920.23,131.2704,915.0887,125.707,916.1128,124.6829,910.5494,122.87,920.23"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29.7832"
+                  x="156.17" y="886.6269">uses
+            </text>
+        </g><!--link Preconditions to BasePage-->
+        <g id="link_Preconditions_BasePage">
+            <path codeLine="74" d="M546.17,87.89 C546.17,106.44 546.17,122.69 546.17,142.18 " fill="none"
+                  id="Preconditions-to-BasePage" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="546.17,148.18,550.17,139.18,546.17,143.18,542.17,139.18,546.17,148.18"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--link LoginPage to UserLoginDetails-->
+        <g id="link_LoginPage_UserLoginDetails">
+            <path codeLine="80" d="M381.79,536.86 C396.17,561.19 413.1256,589.8657 428.6156,616.0557 " fill="none"
+                  id="LoginPage-to-UserLoginDetails" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818"
+                     points="431.67,621.22,430.5312,611.4372,429.1246,616.9164,423.6455,615.5098,431.67,621.22"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--SRC=[VPHHJy8m4CVV-odccyQC3s0C2GBH1w94nmTekdCsR2rfEv0etzrrjDsD5dbQxdg__x_7NMzA-EG2ilVbl9YzFg-M6QkfreGCWIUgOKqho7v8rltkkU1cMKC3mkZRktECrPnjNT37kazG1NpRm0a3NsGp0kv1yS-ZZ_foGVUyeWOAkP8L5ovr8i7Eus-U1nRcX_DUeBQ1ZGQL08J39DYQJAQ8yP2r6aOD-U2LsEomG7_LStW1Xl9Q9vI6CZBGhHRYnM9h9SkM6OtbDDJ0ZCluVj6oBEISAfEGnX0CjyVZVy91-iXEIGPWoL_0jh9DqJs5ZBpQcmL-V2_FYzhe4zSRYKj9aEZrC3JHItgq0ueb6xe55qxrRIWW8xOLmxHOwqsLeDOrPL367KR9XEf5AS52LlWI7OlF69EjC7C5tG8bzCVvX8KOGD2KMXC9YQi-5jsy_kV3vQ_xG02I44P-i5HgcO19KNB3fT33Dfbsv-VT05KBUH2zb_7nF9-6jn13xSFIBxIRMC_jn9MW3RX5wbxLWrHbXnssto8lo_y0]-->
+    </g>
+</svg>
